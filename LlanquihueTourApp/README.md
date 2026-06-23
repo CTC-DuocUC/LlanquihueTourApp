@@ -3,17 +3,15 @@
 ## Autor del proyecto
 
 - **Nombre completo:** Cristopher Tropa Cabrera
-- **Seccion:** PRY2202
 - **Carrera:** Analista Programador Computacional
-- **Sede:** Online
 
 ---
 
-## Descripcion general del sistema
+Descripción general del sistema
 
-Sistema en Java que modela la gestion de tours de la agencia Llanquihue Tour, ubicada en la
-Region de Los Lagos. Lee registros desde un archivo .txt, los convierte en objetos y los
-almacena en un ArrayList. Aplica composicion entre Tour y Operador, validaciones basicas
+Sistema en Java que modela la gestión de tours de la agencia Llanquihue Tour, ubicada en la
+Región de Los Lagos. Lee registros desde un archivo .txt, los convierte en objetos y los
+almacena en un ArrayList. Aplica composición entre Tour y Operador, validaciones básicas
 y filtros por tipo y precio.
 
 ---
@@ -55,7 +53,3 @@ git clone https://github.com/CTC-DuocUC/LlanquihueTourApp.git
 
 **Repositorio GitHub:** https://github.com/CTC-DuocUC/LlanquihueTourApp
 **Fecha de entrega:** 22/06/2026
-
----
-
-© Duoc UC | Escuela de Informatica y Telecomunicaciones | PRY2202
