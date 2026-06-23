@@ -7,7 +7,7 @@
 
 ---
 
-Descripción general del sistema
+## Descripción general del sistema
 
 Sistema en Java que modela la gestión de tours de la agencia Llanquihue Tour, ubicada en la
 Región de Los Lagos. Lee registros desde un archivo .txt, los convierte en objetos y los
