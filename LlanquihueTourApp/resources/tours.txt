@@ -1,0 +1,6 @@
+Tour Lacustre Llanquihue;lacustre;25000;Turismo Sur;+56912345678
+Ruta Gastronomica Frutillar;gastronomico;18000;Sabores del Lago;+56987654321
+Excursion Cultural Puerto Montt;cultural;15000;Cultura Patagonia;+56911223344
+Paseo Volcan Osorno;aventura;35000;Andes Expediciones;+56955667788
+Tour Gastronomico Puerto Varas;gastronomico;22000;Sabores del Lago;+56987654321
+Navegacion Chiloe;lacustre;28000;Turismo Sur;+56912345678
